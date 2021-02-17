@@ -1,26 +1,32 @@
 [
   {
     "title": "Overview",
-    "path": "/"
+    "path": "/",
+    "filePath": "aws-docs-content/amazon/index.mdx"
   },
   {
     "title": "chroot",
-    "path": "/chroot"
+    "path": "/chroot",
+    "filePath": "aws-docs-content/amazon/chroot.mdx"
   },
   {
     "title": "EBS",
-    "path": "/ebs"
+    "path": "/ebs",
+    "filePath": "aws-docs-content/amazon/ebs.mdx"
   },
   {
     "title": "EBS Surrogate",
-    "path": "/ebssurrogate"
+    "path": "/ebssurrogate",
+    "filePath": "aws-docs-content/amazon/ebssurrogate.mdx"
   },
   {
     "title": "EBS Volume",
-    "path": "/ebsvolume"
+    "path": "/ebsvolume",
+    "filePath": "aws-docs-content/amazon/ebsvolume.mdx"
   },
   {
     "title": "Instance",
-    "path": "/instance"
+    "path": "/instance",
+    "filePath": "aws-docs-content/amazon/instance.mdx"
   }
 ]
